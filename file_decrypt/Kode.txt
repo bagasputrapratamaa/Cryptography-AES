@@ -1,0 +1,197 @@
+ihbwd67 armor silver
+ihbwd70 armor platinum
+ihbwd73 armor diamond
+
+ihbwd75 armor donasi
+ihbcw50 armor dewan
+
+iwevt01 snow pray
+iybom03 silver pig
+ipevn06 od kentang
+iprun02 ds
+ipexp02 pil lv
+ikexp01 cape
+
+h = kepala | g = tangan | L = celana | s = sepatu | u = baju
+w = wr | r = ranger | f = ranger/force
+
+Mask Biasa :
+ihawd57 acc wr
+ihafd57 acc lc
+ihard57 acc ranger
+
+ihbrd57 bels ranger
+ihbwd57 bels warior
+ihbfd57 bels force
+
+ihcrd57 cora ranger
+ihcwd57 cora warior
+ihcfd57 cora force
+
+Mask Donasi:
+ihbwd60
+
+
+-Kode Weapon-
+•Weapon Silver•
+iwknd67
+iwswd67
+iwaxd67
+iwmad67
+iwstd67
+iwspd67
+iwbod67
+iwfid67
+iwlud67
+iwged67
+iwdad67
+•Weapon Relic•
+iwknd62
+iwswd61
+iwaxd62
+iwaxd63
+iwmad62
+iwmad63
+iwstd62
+iwspd62
+iwbod61
+iwbod62
+iwfid64
+iwfid66
+iwfid68
+iwfid69
+iwlud64
+iwfld64
+iwfad64
+iwged65
+iwdad65
+
+•Weapon Diamond•
+iwyre66 = sword
+iwxre66 = Axe
+iwhre66 = mace
+iwsre66 = spear
+iwmre66 = hammer
+iwkre66 = knife
+iwdre66 = hand axe
+iwrre66 = throw wing
+iwbre66 = bow
+iwfre66 = fire arm
+iwlre66 = hora launcher
+iwwre66 = wand
+iwtre66 = staff
+iwfld65 = flame launcher
+iwged66 = grenade launcher
+
+•Weapon Patron•
+iwknd70 = knife
+iwswd70 = sword
+iwaxd70 = burova [kapak]
+iwmad70 = beam preasure [mace]/pentungan
+iwstd70 = staff	
+iwspd70 = spear
+iwbod70 = bow
+iwfid70 = gun
+iwlud70 = flame thower
+iwged70 = grenade launcher
+iwdad70 = throw wing
+
+• LEON •
+iwbxc55
+
+-Kode Shield-
+•Shield Silver•
+idaad67 acc
+idbcd67 bels&cora
+•Shield Platinum•
+idaad70 acc
+idbcd70 bels&cora
+•Shield Diamond•
+idaad73 acc
+idbcd73 bels&cora
+•Shield Donasi•
+idmeb75 elven wr
+idbre75 subshield
+
+
+-Kode Elemental-
+•Elemental Silver•
+iachr01 iichr01 Ser Deff
+iachr02 iichr02 Ser Hind
+iachr03 iichr03 Ser akur
+•Elemental Platinum•
+iachr04 iichr04 Ser deff
+iachr05 iichr05 Ser hind
+iachr06 iichr06 Ser akur
+•Elemental Diamond•
+iared01 iired01 Ser Deff
+iared02 iired02 Ser Hind
+iared03 iired03 Ser akur
+•Elemental Donasi•
+iared03 iired03 Ser Deff
+iared04 iired04 Ser Hind
+iared06 iired06 Ser akur
+
+-Kode Booster-
+•Booster Silver•
+ikaa014 acc
+ikbb014 bels
+ikcc014 cora
+•Booster Platinum•
+ikaa015 acc
+ikbb015 bels
+ikcc015 cora
+•Booster Diamond•
+ikaa016 acc
+ikbb016 bels
+ikcc016 cora
+•Booster Donasi•
+ikaa018
+ikbb018
+ikcc018
+No slot = 017
+•Booster 50•
+ikaa006 acc
+ikbb006 bels
+ikcc006 cora
+•Booster AC•
+ikcc010
+•Booster Ilang•
+ikexp02
+
+
+
+ETC 
+Aegis Donation Elemental Combiner iyeee01
+Aegis Diamond Donastion Mask Combiner iyeee02
+Aegis Weapon Donation Combiner iyeee03
+Aegis Armor Donation Combiner iyeee04
+Aegis Special Combiner iyeee05
+PVP Capsule +10 = ipgld11
+PVP + 1000 = ipgld12
+
+• PART AIMING •
+bxcjh03
+
+talk jade irjad04
+sep jade irjad05
+pc cafe irpre19
+legacy iwevn01
+
+
+
+•TALIC•
+igno talic = irtal01
+destuck talic = irtal02
+darkness talic = irtal03
+chaos talic = irtal04
+hatred talic = irtal05
+favor talic = irtal 06
+wisdom talic = irtal07
+sacredfire talic = irtal08
+belief talic = irtal09
+guard talic = irtal10
+glory talic = irtal11
+grace talic = irtal12
+mercy talic = irtal13
+resto talic = irtal14
